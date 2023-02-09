@@ -1,0 +1,10 @@
+.user-input-item {
+  list-style-type: none;
+}
+
+.user-entered-details {
+  color: #0f172a;
+  font-weight: bold;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
